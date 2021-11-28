@@ -1,5 +1,5 @@
 # Assignment Backend  
 
 #### To run the app:  
-`$ npm install`
+`$ npm install`  
 `$ node index.js`
